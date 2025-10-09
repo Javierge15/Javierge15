@@ -2,7 +2,7 @@
 
 **`Electronics & Robotics Engineer`**
 
-I'm a robotics and automation engineer passionate about building intelligent systems that connect the digital and physical worlds. My work focuses on developing autonomous vehicle technologies, industrial automation systems, and real-time teleoperation platforms. I combine strong technical foundations in electronics and control with modern software development practices to create scalable and reliable solutions.
+I'm a robotics and automation engineer passionate about building intelligent systems that connect the digital and physical worlds. I focus on developing autonomous vehicle technologies, industrial automation systems, and real-time teleoperation platforms. I work at the intersection of electronics, control, and software to create practical and reliable solutions.
 
 ---
 
@@ -25,14 +25,18 @@ I'm a robotics and automation engineer passionate about building intelligent sys
 
 ### 🧠 About Me
 
+- 🌐 Based in **Madrid, Spain** 
 - 🎓 **Master's Degree in Robotics and Automation** — UC3M
   *Thesis:* _Real-Time Teleoperation System for Intelligent Vehicles using WebRTC and ROS_  
 - ⚙️ **Bachelor's Degree in Industrial Electronics and Automation Engineering** — UC
   *Thesis:* _Control System for Teaching Automation Principles_  
-- 🧩 Currently working at the **Autonomous Mobility and Perception Lab**, developing advanced perception and communication systems for autonomous vehicles.  
-- 📄 First author of:  
-  *“Overcoming Autonomy Limitations: A Robust Teleoperation Solution for Intelligent Vehicles”* — *IEEE ICVES 2025 (Coventry, UK)*  
-- 🌐 Based in **Madrid, Spain**  
+- 🧩 Currently working at the **Autonomous Mobility and Perception Lab (AMPL)**, developing advanced communication systems for autonomous and teleoperated vehicles.  
+
+---
+
+### 📄 Publications
+-  **IEEE ICVES 2025 (Coventry, UK)- FIRST AUTHOR**  
+  *“Overcoming Autonomy Limitations: A Robust Teleoperation Solution for Intelligent Vehicles”* 
 
 ---
 
