@@ -65,7 +65,6 @@ I'm a robotics and automation engineer passionate about building intelligent sys
 - **Frameworks:** ROS, WebRTC, Dash, Qt Designer, RobotStudio  
 - **Automation & Design Tools:** AutoCAD, SolidWorks, Eplan, TIA Portal, Docker, Git  
 - **Languages:** English (Advanced), French (Basic)  
-- **Other:** Driver’s license (B), own vehicle, open to relocation/travel  
 
 ---
 
