@@ -53,6 +53,9 @@ I'm a robotics and automation engineer passionate about building intelligent sys
 <img align="left" alt="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Qt" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"/>
+<img align="left" alt="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+
 <br /><br />
 </p>
 
